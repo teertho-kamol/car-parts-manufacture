@@ -1,0 +1,10 @@
+.form-container {
+  width: 600px;
+  border: 1px solid #95a0a7;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+@media screen and (max-width: 1100px) {
+}
+@media screen and (max-width: 640px) {
+}
